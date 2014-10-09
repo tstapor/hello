@@ -1,0 +1,4 @@
+# Git is going to ignore this folders
+bin/
+
+target/
